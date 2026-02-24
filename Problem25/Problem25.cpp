@@ -30,7 +30,6 @@ void printResult(int age) {
 		cout << endl << age << " Is a valid age \n";
 	else
 		cout << endl << age << " Is a Invalid age \n";
-
 }
 
 int main()
